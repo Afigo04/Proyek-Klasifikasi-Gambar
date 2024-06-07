@@ -1,1 +1,1 @@
-# Proyek-Klasifikasi-Gambar
+# Untuk proyek di jalankan di Google Colab
